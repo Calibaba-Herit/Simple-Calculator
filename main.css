@@ -1,0 +1,9 @@
+body
+{
+    text-align: center;
+}
+
+#num-1, #num-2
+{
+    text-decoration: underline;
+}
